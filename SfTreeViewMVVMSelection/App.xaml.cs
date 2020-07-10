@@ -13,7 +13,7 @@ using System.Linq;
 using System.Windows;
 using Syncfusion.Licensing;
 
-namespace CheckedTreeViewDemo
+namespace TreeViewMVVMselectionDemo
 {
     /// <summary>
     /// Interaction logic for App.xaml

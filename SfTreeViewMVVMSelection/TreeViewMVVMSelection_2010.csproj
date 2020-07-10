@@ -8,8 +8,8 @@
     <ProjectGuid>{91B0DE08-608F-4824-BEC5-5666AE39F298}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>TreeNodeWithCheckBoxDemo</RootNamespace>
-    <AssemblyName>TreeNodeWithCheckBoxDemo</AssemblyName>
+    <RootNamespace>TreeViewMVVMselectionDemo</RootNamespace>
+    <AssemblyName>TreeViewMVVMselectionDemo</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
