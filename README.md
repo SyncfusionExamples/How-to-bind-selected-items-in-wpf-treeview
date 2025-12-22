@@ -1,6 +1,6 @@
 # How to Bind Selected Items in WPF TreeView?
 
-This repository describes how to bind selected items in [WPF TreeView](https://www.syncfusion.com/wpf-controls/treegrid) (SfTreeView).
+This repository describes how to bind selected items in [WPF TreeView](https://www.syncfusion.com/wpf-controls/treeview) (SfTreeView).
 
 TreeView support to select multiple items through binding the [SelectedItems](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.TreeView.SfTreeView.html#Syncfusion_UI_Xaml_TreeView_SfTreeView_SelectedItems) property from view model with `ObservableCollection<object>` type.
 
